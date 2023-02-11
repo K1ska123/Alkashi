@@ -169,6 +169,31 @@ namespace Calculator
             label1.Text = "";
         }
 
+        private void button21_Click(object sender, EventArgs e)
+        {
+            textBox1.BackColor = Color.Yellow;
+            label1.BackColor = Color.Black;
+            button1.BackColor = Color.Teal;
+            button2.BackColor = Color.Teal;
+            button3.BackColor = Color.Teal;
+            button4.BackColor = Color.Teal;
+            button5.BackColor = Color.Teal;
+            button6.BackColor = Color.Teal;
+            button7.BackColor = Color.Teal;
+            button8.BackColor = Color.Teal;
+            button9.BackColor = Color.Teal;
+            button10.BackColor = Color.Teal;
+            button11.BackColor = Color.Teal;
+            button12.BackColor = Color.Teal;
+            button13.BackColor = Color.Teal;
+            button14.BackColor = Color.Teal;
+            button15.BackColor = Color.Teal;
+            button16.BackColor = Color.Teal;
+            button17.BackColor = Color.Teal;
+            button18.BackColor = Color.Teal;
+            button19.BackColor = Color.Teal;
+        }
+
         private void button2_Click(object sender, EventArgs e)
         {
             int lenght = textBox1.Text.Length - 1;
