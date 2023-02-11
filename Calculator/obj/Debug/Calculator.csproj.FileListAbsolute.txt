@@ -18,3 +18,14 @@ C:\Users\ro4ev\OneDrive\Документы\study\Calculator\Calculator\Calculato
 C:\Users\ro4ev\OneDrive\Документы\study\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\ro4ev\OneDrive\Документы\study\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\ro4ev\OneDrive\Документы\study\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\bin\Debug\Calculator.exe
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.exe
+C:\Users\Никита\Documents\GitHub\Alkashi\Calculator\obj\Debug\Calculator.pdb
